@@ -1,0 +1,20 @@
+# Java compiled files
+*.class
+
+# IDE files
+.metadata/
+.settings/
+.project
+.classpath
+.vs/
+.idea/
+*.iml
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Build artifacts
+bin/
+out/
+target/
