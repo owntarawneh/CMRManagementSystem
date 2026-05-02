@@ -34,6 +34,17 @@ A robust, enterprise-grade Car Maintenance and Repair (CMR) Management System de
 - A terminal or your favorite IDE (VS Code, IntelliJ, or Eclipse).
 
 ### Running the System
+#### 🖥️ GUI Version (Recommended)
+1. Compile the Java files:
+   ```bash
+   javac *.java
+   ```
+2. Run the GUI application:
+   ```bash
+   java CMRGui
+   ```
+
+#### ⌨️ Console Version
 1. Compile the Java files:
    ```bash
    javac *.java
